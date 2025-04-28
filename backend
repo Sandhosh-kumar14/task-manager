@@ -1,0 +1,6 @@
+backend/server.js
+backend/models/User.js
+backend/routes/authRoutes.js
+backend/controllers/authController.js
+backend/middleware/auth.js
+backend/config/connectDB.js
